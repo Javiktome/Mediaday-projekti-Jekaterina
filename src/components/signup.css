@@ -1,0 +1,249 @@
+html{
+overflow-x: hidden;
+}
+
+.signup_main{
+    margin-top: 5%;
+    width: 35rem;
+    margin-left: 30%;
+    
+}
+
+.signup_legend{
+    padding-left: 36%;
+    border:1px solid black;
+}
+
+.form_div{
+    
+ 
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+.signup_img{
+margin-left: 20%;
+width: 50%;
+}
+
+.input_s1{
+ border-top: none;
+ border-right: none;
+ border-left: none;
+ border-bottom: 1px solid black;
+ margin-left: 3rem;
+ margin-top: 3rem;   
+}
+
+.input_s2{
+ border-top: none;
+ border-right: none;
+ border-left: none;
+ border-bottom: 1px solid black;
+ margin-left: 4rem;
+ margin-top: 3rem;   
+}
+
+.input_s3{
+ border-top: none;
+ border-right: none;
+ border-left: none;
+ border-bottom: 1px solid black;
+ margin-left: 3rem;
+ margin-top: 3rem;   
+}
+
+.input_s4{
+ border-top: none;
+ border-right: none;
+ border-left: none;
+ border-bottom: 1px solid black;
+ margin-left: 4rem;
+ margin-top: 3rem;   
+}
+
+.input_s5{
+ border-top: none;
+ border-right: none;
+ border-left: none;
+ border-bottom: 1px solid black;
+ margin-left: 10.5rem;
+ margin-top: 3rem;   
+}
+
+.signup_btn{
+    margin-left: 12rem;
+    margin-top: 4rem;
+}
+
+.signup_link{
+
+ padding-left: 9rem;
+ text-decoration: none;
+ color: black;
+}
+
+@media only screen and (max-width:1190px){
+
+ .signup_main{
+     margin-left: 25%;
+ }
+}
+
+@media only screen and (max-width:1070px){
+
+ .signup_main{
+     margin-left: 21%;
+ }
+}
+
+@media only screen and (max-width:910px){
+
+ .signup_main{
+     margin-left: 17%;
+ }
+}
+
+@media only screen and (max-width:800px){
+
+ .signup_main{
+     margin-left: 14%;
+ }
+}
+
+@media only screen and (max-width:700px){
+
+ .signup_main{
+     margin-left: 10%;
+ }
+}
+
+@media only screen and (max-width:670px){
+
+ .signup_main{
+     margin-left: 5%;
+ }
+}
+
+@media only screen and (max-width:624px){
+
+ .signup_main{
+     margin-left: 2%;
+ }
+}
+
+@media only screen and (max-width:595px){
+
+ .signup_main{
+ width: 30rem;
+ }
+ .signup_img{
+     margin-left: 50%;
+ }
+ .signup_legend{
+     margin-left: 7%;
+ }
+
+}
+
+@media only screen and (max-width:600px){
+    .input_s2{
+        border-top: none;
+        border-right: none;
+        border-left: none;
+        border-bottom: 1px solid black;
+        margin-left: 3rem;
+        margin-top: 3rem;   
+       }
+    
+       .input_s3{
+        margin-left: 2rem;
+        margin-top: 3rem;  
+       }
+    
+       .input_s4{
+        border-top: none;
+        border-right: none;
+        border-left: none;
+        border-bottom: 1px solid black;
+        margin-left: 4rem;
+        margin-top: 3rem;   
+       }
+    
+       .input_s5{
+       
+        margin-left: 9.5rem;
+        margin-top: 3rem;   
+       }
+       .signup_img{
+        margin-left: 30%;
+    }
+}
+
+@media only screen and (max-width:550px){
+
+ .signup_main{
+ width: 30rem;
+ margin-left: 0%;
+ }
+ 
+
+ .signup_img{
+     margin-left: 45%;
+ }
+ .signup_legend{
+     margin-left: 3%;
+     padding-left: 35%;
+ }
+
+
+ .input_s1{
+   
+     margin-left: 2rem;
+     margin-top: 3rem;   
+    }
+ 
+    .input_s2{
+     border-top: none;
+     border-right: none;
+     border-left: none;
+     border-bottom: 1px solid black;
+     margin-left: 4rem;
+     margin-top: 3rem;   
+    }
+ 
+    .input_s3{
+     margin-left: 2rem;
+     margin-top: 3rem;  
+    }
+ 
+    .input_s4{
+     border-top: none;
+     border-right: none;
+     border-left: none;
+     border-bottom: 1px solid black;
+     margin-left: 4rem;
+     margin-top: 3rem;   
+    }
+ 
+    .input_s5{
+    
+     margin-left: 9.5rem;
+     margin-top: 3rem;   
+    }
+ 
+    .signup_btn{
+        margin-left: 11rem;
+        margin-top: 4rem;
+    }
+    .signup_link{
+     padding-left: 7.5rem;
+     
+    }
+
+}
+@media only screen and (max-width:560px){
+    .signup_img{
+        margin-left: 30%;
+    }
+}
